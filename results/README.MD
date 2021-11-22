@@ -1,1 +1,2 @@
-Results in HTML
+Krona plot results in HTML.
+Download/clone these files to view them as interactive Krona plots.
